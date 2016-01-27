@@ -1,0 +1,6 @@
+Application for Mitsubishi industrial robot control created as a student project
+Depedencies:
+    PySerial
+    PyQt
+
+This software is licensed under the GNU General Public License version 3
